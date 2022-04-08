@@ -13,7 +13,12 @@ You’ll be asked to accomplish the following main tasks:
 
 - Enhance the robo advisor with an Amazon Lambda function: Create an Amazon Lambda function that validates the user's input and returns the investment portfolio recommendation. This includes testing the Amazon Lambda function and integrating it with the bot.
 
-## Analysis
+## Videos
+### First RoboAdvisor
+https://user-images.githubusercontent.com/1395392/162515995-2720b62d-a140-4ed8-8a34-fa3cc9fbf00c.mp4
+### Enhanced RoboAdvisor
+https://user-images.githubusercontent.com/1395392/162516020-b3d113bd-b989-42e6-b222-4f57c0362804.mp4
+
 
 ---
 
